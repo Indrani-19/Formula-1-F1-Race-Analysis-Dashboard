@@ -3,6 +3,8 @@
 
 [![Tableau Dashboard](https://img.shields.io/badge/View-Dashboard-blue)](https://public.tableau.com/app/profile/sai.aditya.paruchuri/viz/F1-analysis-dashboard-ISA/Dashboard1?publish=yes)  
 [![Dataset](https://img.shields.io/badge/Dataset-Formula%201-orange)](https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020)  
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/36f4a759-a09a-4232-a05a-acedc60b8f2f" />
+
 
 ---
 
